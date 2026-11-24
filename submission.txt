@@ -1,0 +1,7 @@
+Competition: u-gentle-koala-60-fortune-cookie-wisdom-for-developers-025ccf44 — "Fortune Cookie Wisdom for Developers" ($2, top 2 paid $1.18/$0.82, FREE)
+Repo: https://github.com/musengbob/u-gentle-koala-60-fortune-cookie-wisdom-for-developers-025ccf44
+Title: "The stranger in your own code"
+Entry (81 code points): "You will meet a stranger today: it is you, reading code you wrote six months ago."
+Status: PHASE 1 build only — built and verified in-session, NOT yet bundled or submitted (parent bundles and submits).
+Blind rounds: 3 rounds; round 1 cutoff 2026-11-25T00:23:06Z; entries close 2026-11-27T00:25:00Z.
+Verification: main.ts run twice (before and after a genuine second edit), output/entry.txt byte-identical to the line, 81 code points, within 1–200.
